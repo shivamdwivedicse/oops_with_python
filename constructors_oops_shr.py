@@ -7,7 +7,7 @@ class Factory:
     
     # __init__ is a CONSTRUCTOR (special method)
     # It automatically runs when a new object of the class is created.
-    # It is used to initialize the attributes (variables) of the object.
+    # It is used to initialize the attributes (variables) of the object
     
     def __init__(self , material , zips, pockets):
         

@@ -15,4 +15,4 @@ class Myclass:
 class Myclass:
     @staticmethod #used to create staticMethod
     def static_method():
-        print("This is a static Method.")
+        print("This is a static Method.")  
