@@ -1,5 +1,5 @@
 class Animal:
-    name = lion #class atribute
+    name = "lion" #class atribute
     
     def __init__(self , age):
         self.age = age #it is instant attribute

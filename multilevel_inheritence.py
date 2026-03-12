@@ -1,7 +1,7 @@
 class Factory:
     def __init__(self,material,zip):
         self.material = material
-        self.zips = zips
+        self.zip = zip
 
 class BhopalFactory(Factory):
     def __init__(self, material, zip,color):
